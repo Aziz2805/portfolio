@@ -1,0 +1,3 @@
+bibliotheque=/home/aziz/POO/Projet-POO/livres
+etats=/home/aziz/POO/Projet-POO/rapports
+nbmax=10
