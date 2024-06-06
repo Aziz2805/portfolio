@@ -1,10 +1,14 @@
 Bienvenue dans mon application !
 
-Pour la lancer, veuillez executer la commande 
+Etapes pour la lancer:
+- Télécharger l'intégralité du dossier affaire_Enron
+- Ouvrir le terminal dans ce répertoire
+- Lancer les commandes 
+./peuplement_xml.py
+./peuplement_maildir.py
+python manage.py runserver 7000
 
-"python3 manage.py runserver 7000"
-
-Ensuite naviguer sur le lien 
+Ensuite naviguer sur le lien:
 
 "http://localhost:7000/page_accueil"
 

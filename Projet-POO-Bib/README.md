@@ -10,6 +10,6 @@ Pour générer des rapports explicatifs des livres téléchargés (par auteur et
 
 "python3 main.py rapports [profondeur]"
 
-L'utilisateur configurer le fichier "biblio.conf.txt" convenablement en ajustant les chemins des rapports qu'il veut générer et le nombre maximal de livres à télécharger
+L'utilisateur peut configurer le fichier "biblio.conf.txt" en ajustant les chemins des rapports qu'il veut générer et le nombre maximal de livres à télécharger et lancer l'application comme suit:
 
 "python3 main.py -c bibli.conf.txt [Lien] [profondeur]"
